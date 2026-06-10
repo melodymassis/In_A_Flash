@@ -1,5 +1,9 @@
 # In_A_Flash
 
+As part of the AWS AI Inference Hack Day, we designed an Agent that would create a GTM plan for a startup founder.
+
+https://luma.com/ai-inference-hack-day-jun10-2026?tk=DYx7dZ 
+
 Design Thinking Board:
 
 B2B/BTC Marketing Agent
